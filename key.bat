@@ -5,6 +5,6 @@ set cont = 0
 :inicio
 echo %cont%
 set /a cont=cont+1
-if %cont% == %x% goto final
+if %cont% == %x% goto :final
 goto inicio
 :final
