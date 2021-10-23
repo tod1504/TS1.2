@@ -1,6 +1,5 @@
 @echo off
-set/p x = Ingrese numero 
-cls
+set/p x = Ingrese numero
 set cont = 0
 :inicio
 echo %cont%
