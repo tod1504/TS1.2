@@ -1,4 +1,4 @@
-@echo off
+@echo on
 set/p x = Ingrese numero 
 cls
 set cont = 0
